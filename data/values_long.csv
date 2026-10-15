@@ -1,0 +1,613 @@
+slug,metric,value,fiscal_year,source,source_url,as_of,confidence
+boston-college,eada_total_revenue,142122049,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/164924,2026-10-15,Official filing
+boston-college,eada_total_expenses,142122049,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/164924,2026-10-15,Official filing
+boston-college,eada_football_revenue,47531226,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/164924,2026-10-15,Official filing
+boston-college,eada_football_expenses,41224780,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/164924,2026-10-15,Official filing
+boston-college,eada_mbb_revenue,9971317,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/164924,2026-10-15,Official filing
+boston-college,eada_mbb_expenses,10805531,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/164924,2026-10-15,Official filing
+boston-college,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+boston-college,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+boston-college,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+cal,eada_total_revenue,173116318,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110635,2026-10-15,Official filing
+cal,eada_total_expenses,173116318,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110635,2026-10-15,Official filing
+cal,eada_football_revenue,63954618,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110635,2026-10-15,Official filing
+cal,eada_football_expenses,46721911,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110635,2026-10-15,Official filing
+cal,eada_mbb_revenue,13249051,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110635,2026-10-15,Official filing
+cal,eada_mbb_expenses,14101936,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110635,2026-10-15,Official filing
+cal,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+cal,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+cal,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+clemson,eada_total_revenue,186106774,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/217882,2026-10-15,Official filing
+clemson,eada_total_expenses,186106774,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/217882,2026-10-15,Official filing
+clemson,eada_football_revenue,86902571,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/217882,2026-10-15,Official filing
+clemson,eada_football_expenses,81136726,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/217882,2026-10-15,Official filing
+clemson,eada_mbb_revenue,12592738,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/217882,2026-10-15,Official filing
+clemson,eada_mbb_expenses,12592738,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/217882,2026-10-15,Official filing
+clemson,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+clemson,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+clemson,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+duke,eada_total_revenue,181607802,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/198419,2026-10-15,Official filing
+duke,eada_total_expenses,180590186,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/198419,2026-10-15,Official filing
+duke,eada_football_revenue,67356450,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/198419,2026-10-15,Official filing
+duke,eada_football_expenses,47363558,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/198419,2026-10-15,Official filing
+duke,eada_mbb_revenue,52729506,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/198419,2026-10-15,Official filing
+duke,eada_mbb_expenses,31868603,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/198419,2026-10-15,Official filing
+duke,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+duke,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+duke,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+florida-state,eada_total_revenue,192717172,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134097,2026-10-15,Official filing
+florida-state,eada_total_expenses,192717172,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134097,2026-10-15,Official filing
+florida-state,eada_football_revenue,83469718,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134097,2026-10-15,Official filing
+florida-state,eada_football_expenses,83267924,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134097,2026-10-15,Official filing
+florida-state,eada_mbb_revenue,14557585,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134097,2026-10-15,Official filing
+florida-state,eada_mbb_expenses,14557585,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134097,2026-10-15,Official filing
+florida-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+florida-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+florida-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+georgia-tech,eada_total_revenue,140430227,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139755,2026-10-15,Official filing
+georgia-tech,eada_total_expenses,140430227,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139755,2026-10-15,Official filing
+georgia-tech,eada_football_revenue,70541041,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139755,2026-10-15,Official filing
+georgia-tech,eada_football_expenses,42709508,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139755,2026-10-15,Official filing
+georgia-tech,eada_mbb_revenue,14536539,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139755,2026-10-15,Official filing
+georgia-tech,eada_mbb_expenses,12013953,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139755,2026-10-15,Official filing
+georgia-tech,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+georgia-tech,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+georgia-tech,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+louisville,eada_total_revenue,155903308,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157289,2026-10-15,Official filing
+louisville,eada_total_expenses,154819604,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157289,2026-10-15,Official filing
+louisville,eada_football_revenue,33090886,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157289,2026-10-15,Official filing
+louisville,eada_football_expenses,30745125,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157289,2026-10-15,Official filing
+louisville,eada_mbb_revenue,22792373,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157289,2026-10-15,Official filing
+louisville,eada_mbb_expenses,14854067,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157289,2026-10-15,Official filing
+louisville,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+louisville,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+louisville,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+miami,eada_total_revenue,230484608,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/135726,2026-10-15,Official filing
+miami,eada_total_expenses,230484608,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/135726,2026-10-15,Official filing
+miami,eada_football_revenue,99864288,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/135726,2026-10-15,Official filing
+miami,eada_football_expenses,88117956,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/135726,2026-10-15,Official filing
+miami,eada_mbb_revenue,17865162,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/135726,2026-10-15,Official filing
+miami,eada_mbb_expenses,14366552,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/135726,2026-10-15,Official filing
+miami,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+miami,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+miami,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+nc-state,eada_total_revenue,135830733,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199193,2026-10-15,Official filing
+nc-state,eada_total_expenses,129009673,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199193,2026-10-15,Official filing
+nc-state,eada_football_revenue,69756644,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199193,2026-10-15,Official filing
+nc-state,eada_football_expenses,40535367,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199193,2026-10-15,Official filing
+nc-state,eada_mbb_revenue,18993591,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199193,2026-10-15,Official filing
+nc-state,eada_mbb_expenses,11858910,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199193,2026-10-15,Official filing
+nc-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+nc-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+nc-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+north-carolina,eada_total_revenue,180835031,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199120,2026-10-15,Official filing
+north-carolina,eada_total_expenses,180835031,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199120,2026-10-15,Official filing
+north-carolina,eada_football_revenue,63337093,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199120,2026-10-15,Official filing
+north-carolina,eada_football_expenses,49145749,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199120,2026-10-15,Official filing
+north-carolina,eada_mbb_revenue,39742088,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199120,2026-10-15,Official filing
+north-carolina,eada_mbb_expenses,16738604,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199120,2026-10-15,Official filing
+north-carolina,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+north-carolina,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+north-carolina,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+pittsburgh,eada_total_revenue,151337808,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/215293,2026-10-15,Official filing
+pittsburgh,eada_total_expenses,151337808,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/215293,2026-10-15,Official filing
+pittsburgh,eada_football_revenue,57222645,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/215293,2026-10-15,Official filing
+pittsburgh,eada_football_expenses,47141722,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/215293,2026-10-15,Official filing
+pittsburgh,eada_mbb_revenue,13874103,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/215293,2026-10-15,Official filing
+pittsburgh,eada_mbb_expenses,11437769,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/215293,2026-10-15,Official filing
+pittsburgh,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+pittsburgh,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+pittsburgh,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+smu,eada_total_revenue,150225313,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228246,2026-10-15,Official filing
+smu,eada_total_expenses,150225313,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228246,2026-10-15,Official filing
+smu,eada_football_revenue,45315587,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228246,2026-10-15,Official filing
+smu,eada_football_expenses,45315587,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228246,2026-10-15,Official filing
+smu,eada_mbb_revenue,16735281,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228246,2026-10-15,Official filing
+smu,eada_mbb_expenses,16735281,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228246,2026-10-15,Official filing
+smu,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+smu,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+smu,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+stanford,eada_total_revenue,192802320,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243744,2026-10-15,Official filing
+stanford,eada_total_expenses,192802320,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243744,2026-10-15,Official filing
+stanford,eada_football_revenue,35992019,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243744,2026-10-15,Official filing
+stanford,eada_football_expenses,35992019,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243744,2026-10-15,Official filing
+stanford,eada_mbb_revenue,10765368,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243744,2026-10-15,Official filing
+stanford,eada_mbb_expenses,10765368,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243744,2026-10-15,Official filing
+stanford,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+stanford,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+stanford,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+syracuse,eada_total_revenue,120839134,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/196413,2026-10-15,Official filing
+syracuse,eada_total_expenses,108994576,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/196413,2026-10-15,Official filing
+syracuse,eada_football_revenue,64585287,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/196413,2026-10-15,Official filing
+syracuse,eada_football_expenses,42090055,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/196413,2026-10-15,Official filing
+syracuse,eada_mbb_revenue,31587705,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/196413,2026-10-15,Official filing
+syracuse,eada_mbb_expenses,15936295,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/196413,2026-10-15,Official filing
+syracuse,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+syracuse,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+syracuse,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+virginia,eada_total_revenue,150622194,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/234076,2026-10-15,Official filing
+virginia,eada_total_expenses,150622194,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/234076,2026-10-15,Official filing
+virginia,eada_football_revenue,51441991,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/234076,2026-10-15,Official filing
+virginia,eada_football_expenses,33611796,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/234076,2026-10-15,Official filing
+virginia,eada_mbb_revenue,17841957,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/234076,2026-10-15,Official filing
+virginia,eada_mbb_expenses,16646407,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/234076,2026-10-15,Official filing
+virginia,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+virginia,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+virginia,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+virginia-tech,eada_total_revenue,151623889,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/233921,2026-10-15,Official filing
+virginia-tech,eada_total_expenses,148984818,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/233921,2026-10-15,Official filing
+virginia-tech,eada_football_revenue,79735756,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/233921,2026-10-15,Official filing
+virginia-tech,eada_football_expenses,37803976,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/233921,2026-10-15,Official filing
+virginia-tech,eada_mbb_revenue,8485407,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/233921,2026-10-15,Official filing
+virginia-tech,eada_mbb_expenses,9504271,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/233921,2026-10-15,Official filing
+virginia-tech,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+virginia-tech,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+virginia-tech,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+wake-forest,eada_total_revenue,114628069,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199847,2026-10-15,Official filing
+wake-forest,eada_total_expenses,114628069,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199847,2026-10-15,Official filing
+wake-forest,eada_football_revenue,39399925,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199847,2026-10-15,Official filing
+wake-forest,eada_football_expenses,39399925,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199847,2026-10-15,Official filing
+wake-forest,eada_mbb_revenue,13055099,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199847,2026-10-15,Official filing
+wake-forest,eada_mbb_expenses,13055099,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/199847,2026-10-15,Official filing
+wake-forest,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+wake-forest,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+wake-forest,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arizona,eada_total_revenue,132661899,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104179,2026-10-15,Official filing
+arizona,eada_total_expenses,132661899,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104179,2026-10-15,Official filing
+arizona,eada_football_revenue,37795880,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104179,2026-10-15,Official filing
+arizona,eada_football_expenses,37795880,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104179,2026-10-15,Official filing
+arizona,eada_mbb_revenue,22635363,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104179,2026-10-15,Official filing
+arizona,eada_mbb_expenses,22635363,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104179,2026-10-15,Official filing
+arizona,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arizona,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arizona,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arizona-state,eada_total_revenue,149346605,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104151,2026-10-15,Official filing
+arizona-state,eada_total_expenses,149346605,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104151,2026-10-15,Official filing
+arizona-state,eada_football_revenue,50352139,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104151,2026-10-15,Official filing
+arizona-state,eada_football_expenses,50352139,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104151,2026-10-15,Official filing
+arizona-state,eada_mbb_revenue,10063114,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104151,2026-10-15,Official filing
+arizona-state,eada_mbb_expenses,10063114,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/104151,2026-10-15,Official filing
+arizona-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arizona-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arizona-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+baylor,eada_total_revenue,144126427,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/223232,2026-10-15,Official filing
+baylor,eada_total_expenses,144126427,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/223232,2026-10-15,Official filing
+baylor,eada_football_revenue,44260293,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/223232,2026-10-15,Official filing
+baylor,eada_football_expenses,41050130,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/223232,2026-10-15,Official filing
+baylor,eada_mbb_revenue,18424983,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/223232,2026-10-15,Official filing
+baylor,eada_mbb_expenses,18424983,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/223232,2026-10-15,Official filing
+baylor,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+baylor,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+baylor,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+byu,eada_total_revenue,153351328,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230038,2026-10-15,Official filing
+byu,eada_total_expenses,136864784,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230038,2026-10-15,Official filing
+byu,eada_football_revenue,51715899,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230038,2026-10-15,Official filing
+byu,eada_football_expenses,44561032,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230038,2026-10-15,Official filing
+byu,eada_mbb_revenue,28047261,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230038,2026-10-15,Official filing
+byu,eada_mbb_expenses,17030052,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230038,2026-10-15,Official filing
+byu,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+byu,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+byu,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+cincinnati,eada_total_revenue,119327103,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/201885,2026-10-15,Official filing
+cincinnati,eada_total_expenses,119327103,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/201885,2026-10-15,Official filing
+cincinnati,eada_football_revenue,30429185,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/201885,2026-10-15,Official filing
+cincinnati,eada_football_expenses,30429185,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/201885,2026-10-15,Official filing
+cincinnati,eada_mbb_revenue,12321038,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/201885,2026-10-15,Official filing
+cincinnati,eada_mbb_expenses,12321038,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/201885,2026-10-15,Official filing
+cincinnati,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+cincinnati,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+cincinnati,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+colorado,eada_total_revenue,161671803,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/126614,2026-10-15,Official filing
+colorado,eada_total_expenses,161512069,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/126614,2026-10-15,Official filing
+colorado,eada_football_revenue,69306235,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/126614,2026-10-15,Official filing
+colorado,eada_football_expenses,42805019,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/126614,2026-10-15,Official filing
+colorado,eada_mbb_revenue,11918793,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/126614,2026-10-15,Official filing
+colorado,eada_mbb_expenses,8608358,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/126614,2026-10-15,Official filing
+colorado,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+colorado,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+colorado,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+houston,eada_total_revenue,100162965,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/225511,2026-10-15,Official filing
+houston,eada_total_expenses,100162965,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/225511,2026-10-15,Official filing
+houston,eada_football_revenue,23271364,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/225511,2026-10-15,Official filing
+houston,eada_football_expenses,23271364,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/225511,2026-10-15,Official filing
+houston,eada_mbb_revenue,14577598,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/225511,2026-10-15,Official filing
+houston,eada_mbb_expenses,14577598,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/225511,2026-10-15,Official filing
+houston,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+houston,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+houston,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+iowa-state,eada_total_revenue,103899204,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153603,2026-10-15,Official filing
+iowa-state,eada_total_expenses,103893160,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153603,2026-10-15,Official filing
+iowa-state,eada_football_revenue,60744404,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153603,2026-10-15,Official filing
+iowa-state,eada_football_expenses,32337385,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153603,2026-10-15,Official filing
+iowa-state,eada_mbb_revenue,14437710,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153603,2026-10-15,Official filing
+iowa-state,eada_mbb_expenses,10382761,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153603,2026-10-15,Official filing
+iowa-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+iowa-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+iowa-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kansas,eada_total_revenue,173669277,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155317,2026-10-15,Official filing
+kansas,eada_total_expenses,159866627,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155317,2026-10-15,Official filing
+kansas,eada_football_revenue,37107691,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155317,2026-10-15,Official filing
+kansas,eada_football_expenses,34516494,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155317,2026-10-15,Official filing
+kansas,eada_mbb_revenue,21918945,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155317,2026-10-15,Official filing
+kansas,eada_mbb_expenses,19732078,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155317,2026-10-15,Official filing
+kansas,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kansas,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kansas,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kansas-state,eada_total_revenue,102982919,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155399,2026-10-15,Official filing
+kansas-state,eada_total_expenses,100807499,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155399,2026-10-15,Official filing
+kansas-state,eada_football_revenue,27087822,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155399,2026-10-15,Official filing
+kansas-state,eada_football_expenses,27087822,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155399,2026-10-15,Official filing
+kansas-state,eada_mbb_revenue,10907824,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155399,2026-10-15,Official filing
+kansas-state,eada_mbb_expenses,10907824,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/155399,2026-10-15,Official filing
+kansas-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kansas-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kansas-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oklahoma-state,eada_total_revenue,153679234,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207388,2026-10-15,Official filing
+oklahoma-state,eada_total_expenses,153679234,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207388,2026-10-15,Official filing
+oklahoma-state,eada_football_revenue,56992244,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207388,2026-10-15,Official filing
+oklahoma-state,eada_football_expenses,32830617,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207388,2026-10-15,Official filing
+oklahoma-state,eada_mbb_revenue,18083335,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207388,2026-10-15,Official filing
+oklahoma-state,eada_mbb_expenses,11530565,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207388,2026-10-15,Official filing
+oklahoma-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oklahoma-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oklahoma-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+tcu,eada_total_revenue,155989500,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228875,2026-10-15,Official filing
+tcu,eada_total_expenses,155989500,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228875,2026-10-15,Official filing
+tcu,eada_football_revenue,59568339,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228875,2026-10-15,Official filing
+tcu,eada_football_expenses,59568339,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228875,2026-10-15,Official filing
+tcu,eada_mbb_revenue,15620468,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228875,2026-10-15,Official filing
+tcu,eada_mbb_expenses,15620468,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228875,2026-10-15,Official filing
+tcu,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+tcu,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+tcu,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas-tech,eada_total_revenue,128777718,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/229115,2026-10-15,Official filing
+texas-tech,eada_total_expenses,127895343,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/229115,2026-10-15,Official filing
+texas-tech,eada_football_revenue,69872378,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/229115,2026-10-15,Official filing
+texas-tech,eada_football_expenses,39745662,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/229115,2026-10-15,Official filing
+texas-tech,eada_mbb_revenue,15976185,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/229115,2026-10-15,Official filing
+texas-tech,eada_mbb_expenses,15637329,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/229115,2026-10-15,Official filing
+texas-tech,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas-tech,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas-tech,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ucf,eada_total_revenue,108885086,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/132903,2026-10-15,Official filing
+ucf,eada_total_expenses,103615446,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/132903,2026-10-15,Official filing
+ucf,eada_football_revenue,30085713,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/132903,2026-10-15,Official filing
+ucf,eada_football_expenses,38695138,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/132903,2026-10-15,Official filing
+ucf,eada_mbb_revenue,7812023,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/132903,2026-10-15,Official filing
+ucf,eada_mbb_expenses,7812023,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/132903,2026-10-15,Official filing
+ucf,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ucf,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ucf,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+utah,eada_total_revenue,125167576,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230764,2026-10-15,Official filing
+utah,eada_total_expenses,118667209,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230764,2026-10-15,Official filing
+utah,eada_football_revenue,95930953,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230764,2026-10-15,Official filing
+utah,eada_football_expenses,41410554,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230764,2026-10-15,Official filing
+utah,eada_mbb_revenue,16981671,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230764,2026-10-15,Official filing
+utah,eada_mbb_expenses,8954515,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/230764,2026-10-15,Official filing
+utah,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+utah,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+utah,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+west-virginia,eada_total_revenue,117413366,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/238032,2026-10-15,Official filing
+west-virginia,eada_total_expenses,117413366,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/238032,2026-10-15,Official filing
+west-virginia,eada_football_revenue,47642113,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/238032,2026-10-15,Official filing
+west-virginia,eada_football_expenses,35250569,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/238032,2026-10-15,Official filing
+west-virginia,eada_mbb_revenue,10222908,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/238032,2026-10-15,Official filing
+west-virginia,eada_mbb_expenses,10222908,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/238032,2026-10-15,Official filing
+west-virginia,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+west-virginia,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+west-virginia,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+illinois,eada_total_revenue,174612181,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/145637,2026-10-15,Official filing
+illinois,eada_total_expenses,174612181,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/145637,2026-10-15,Official filing
+illinois,eada_football_revenue,87939659,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/145637,2026-10-15,Official filing
+illinois,eada_football_expenses,48001399,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/145637,2026-10-15,Official filing
+illinois,eada_mbb_revenue,34764436,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/145637,2026-10-15,Official filing
+illinois,eada_mbb_expenses,20565967,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/145637,2026-10-15,Official filing
+illinois,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+illinois,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+illinois,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+indiana,eada_total_revenue,182095778,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/151351,2026-10-15,Official filing
+indiana,eada_total_expenses,159331697,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/151351,2026-10-15,Official filing
+indiana,eada_football_revenue,80906601,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/151351,2026-10-15,Official filing
+indiana,eada_football_expenses,50207544,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/151351,2026-10-15,Official filing
+indiana,eada_mbb_revenue,52276379,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/151351,2026-10-15,Official filing
+indiana,eada_mbb_expenses,31818423,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/151351,2026-10-15,Official filing
+indiana,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+indiana,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+indiana,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+iowa,eada_total_revenue,179990052,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153658,2026-10-15,Official filing
+iowa,eada_total_expenses,150892055,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153658,2026-10-15,Official filing
+iowa,eada_football_revenue,105190203,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153658,2026-10-15,Official filing
+iowa,eada_football_expenses,50894414,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153658,2026-10-15,Official filing
+iowa,eada_mbb_revenue,16702408,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153658,2026-10-15,Official filing
+iowa,eada_mbb_expenses,13292250,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/153658,2026-10-15,Official filing
+iowa,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+iowa,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+iowa,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+maryland,eada_total_revenue,128662116,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/163286,2026-10-15,Official filing
+maryland,eada_total_expenses,128662116,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/163286,2026-10-15,Official filing
+maryland,eada_football_revenue,63070858,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/163286,2026-10-15,Official filing
+maryland,eada_football_expenses,35502618,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/163286,2026-10-15,Official filing
+maryland,eada_mbb_revenue,16464647,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/163286,2026-10-15,Official filing
+maryland,eada_mbb_expenses,12972857,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/163286,2026-10-15,Official filing
+maryland,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+maryland,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+maryland,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+michigan,eada_total_revenue,236376759,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/170976,2026-10-15,Official filing
+michigan,eada_total_expenses,222088909,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/170976,2026-10-15,Official filing
+michigan,eada_football_revenue,175299592,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/170976,2026-10-15,Official filing
+michigan,eada_football_expenses,61663186,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/170976,2026-10-15,Official filing
+michigan,eada_mbb_revenue,21209886,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/170976,2026-10-15,Official filing
+michigan,eada_mbb_expenses,14358515,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/170976,2026-10-15,Official filing
+michigan,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+michigan,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+michigan,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+michigan-state,eada_total_revenue,160697176,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/171100,2026-10-15,Official filing
+michigan-state,eada_total_expenses,160697176,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/171100,2026-10-15,Official filing
+michigan-state,eada_football_revenue,77084648,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/171100,2026-10-15,Official filing
+michigan-state,eada_football_expenses,48227813,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/171100,2026-10-15,Official filing
+michigan-state,eada_mbb_revenue,21818193,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/171100,2026-10-15,Official filing
+michigan-state,eada_mbb_expenses,20566735,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/171100,2026-10-15,Official filing
+michigan-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+michigan-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+michigan-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+minnesota,eada_total_revenue,156773938,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/174066,2026-10-15,Official filing
+minnesota,eada_total_expenses,146804169,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/174066,2026-10-15,Official filing
+minnesota,eada_football_revenue,101726085,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/174066,2026-10-15,Official filing
+minnesota,eada_football_expenses,45452693,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/174066,2026-10-15,Official filing
+minnesota,eada_mbb_revenue,15997942,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/174066,2026-10-15,Official filing
+minnesota,eada_mbb_expenses,15623863,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/174066,2026-10-15,Official filing
+minnesota,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+minnesota,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+minnesota,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+nebraska,eada_total_revenue,205807522,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/181464,2026-10-15,Official filing
+nebraska,eada_total_expenses,198462402,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/181464,2026-10-15,Official filing
+nebraska,eada_football_revenue,122283973,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/181464,2026-10-15,Official filing
+nebraska,eada_football_expenses,70574668,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/181464,2026-10-15,Official filing
+nebraska,eada_mbb_revenue,18447339,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/181464,2026-10-15,Official filing
+nebraska,eada_mbb_expenses,13196203,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/181464,2026-10-15,Official filing
+nebraska,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+nebraska,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+nebraska,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+northwestern,eada_total_revenue,131779238,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/147767,2026-10-15,Official filing
+northwestern,eada_total_expenses,131779238,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/147767,2026-10-15,Official filing
+northwestern,eada_football_revenue,85587606,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/147767,2026-10-15,Official filing
+northwestern,eada_football_expenses,37901761,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/147767,2026-10-15,Official filing
+northwestern,eada_mbb_revenue,14431898,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/147767,2026-10-15,Official filing
+northwestern,eada_mbb_expenses,14728871,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/147767,2026-10-15,Official filing
+northwestern,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+northwestern,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+northwestern,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ohio-state,eada_total_revenue,295265883,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/204796,2026-10-15,Official filing
+ohio-state,eada_total_expenses,295265883,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/204796,2026-10-15,Official filing
+ohio-state,eada_football_revenue,160549826,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/204796,2026-10-15,Official filing
+ohio-state,eada_football_expenses,92359309,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/204796,2026-10-15,Official filing
+ohio-state,eada_mbb_revenue,23355035,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/204796,2026-10-15,Official filing
+ohio-state,eada_mbb_expenses,13158683,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/204796,2026-10-15,Official filing
+ohio-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ohio-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ohio-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oregon,eada_total_revenue,167129024,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/209551,2026-10-15,Official filing
+oregon,eada_total_expenses,164742082,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/209551,2026-10-15,Official filing
+oregon,eada_football_revenue,119584907,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/209551,2026-10-15,Official filing
+oregon,eada_football_expenses,60847472,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/209551,2026-10-15,Official filing
+oregon,eada_mbb_revenue,11644706,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/209551,2026-10-15,Official filing
+oregon,eada_mbb_expenses,14072866,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/209551,2026-10-15,Official filing
+oregon,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oregon,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oregon,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+penn-state,eada_total_revenue,254397122,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/214777,2026-10-15,Official filing
+penn-state,eada_total_expenses,231709762,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/214777,2026-10-15,Official filing
+penn-state,eada_football_revenue,150314572,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/214777,2026-10-15,Official filing
+penn-state,eada_football_expenses,77386097,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/214777,2026-10-15,Official filing
+penn-state,eada_mbb_revenue,15174250,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/214777,2026-10-15,Official filing
+penn-state,eada_mbb_expenses,14434548,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/214777,2026-10-15,Official filing
+penn-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+penn-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+penn-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+purdue,eada_total_revenue,150536320,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243780,2026-10-15,Official filing
+purdue,eada_total_expenses,135140397,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243780,2026-10-15,Official filing
+purdue,eada_football_revenue,83144029,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243780,2026-10-15,Official filing
+purdue,eada_football_expenses,37193229,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243780,2026-10-15,Official filing
+purdue,eada_mbb_revenue,20966991,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243780,2026-10-15,Official filing
+purdue,eada_mbb_expenses,14040438,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/243780,2026-10-15,Official filing
+purdue,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+purdue,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+purdue,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+rutgers,eada_total_revenue,171679918,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/186380,2026-10-15,Official filing
+rutgers,eada_total_expenses,171679918,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/186380,2026-10-15,Official filing
+rutgers,eada_football_revenue,75922954,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/186380,2026-10-15,Official filing
+rutgers,eada_football_expenses,75922954,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/186380,2026-10-15,Official filing
+rutgers,eada_mbb_revenue,16076899,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/186380,2026-10-15,Official filing
+rutgers,eada_mbb_expenses,16076899,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/186380,2026-10-15,Official filing
+rutgers,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+rutgers,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+rutgers,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ucla,eada_total_revenue,173429394,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110662,2026-10-15,Official filing
+ucla,eada_total_expenses,173429394,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110662,2026-10-15,Official filing
+ucla,eada_football_revenue,55205071,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110662,2026-10-15,Official filing
+ucla,eada_football_expenses,55205071,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110662,2026-10-15,Official filing
+ucla,eada_mbb_revenue,17799741,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110662,2026-10-15,Official filing
+ucla,eada_mbb_expenses,17799741,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/110662,2026-10-15,Official filing
+ucla,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ucla,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ucla,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+usc,eada_total_revenue,234029848,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/123961,2026-10-15,Official filing
+usc,eada_total_expenses,234029848,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/123961,2026-10-15,Official filing
+usc,eada_football_revenue,74014972,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/123961,2026-10-15,Official filing
+usc,eada_football_expenses,74014972,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/123961,2026-10-15,Official filing
+usc,eada_mbb_revenue,13074782,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/123961,2026-10-15,Official filing
+usc,eada_mbb_expenses,13074782,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/123961,2026-10-15,Official filing
+usc,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+usc,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+usc,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+washington,eada_total_revenue,178415083,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/236948,2026-10-15,Official filing
+washington,eada_total_expenses,174834634,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/236948,2026-10-15,Official filing
+washington,eada_football_revenue,121018946,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/236948,2026-10-15,Official filing
+washington,eada_football_expenses,68921774,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/236948,2026-10-15,Official filing
+washington,eada_mbb_revenue,13456854,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/236948,2026-10-15,Official filing
+washington,eada_mbb_expenses,11725277,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/236948,2026-10-15,Official filing
+washington,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+washington,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+washington,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+wisconsin,eada_total_revenue,190503289,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/240444,2026-10-15,Official filing
+wisconsin,eada_total_expenses,180525755,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/240444,2026-10-15,Official filing
+wisconsin,eada_football_revenue,112319593,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/240444,2026-10-15,Official filing
+wisconsin,eada_football_expenses,40903448,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/240444,2026-10-15,Official filing
+wisconsin,eada_mbb_revenue,19869281,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/240444,2026-10-15,Official filing
+wisconsin,eada_mbb_expenses,12464124,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/240444,2026-10-15,Official filing
+wisconsin,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+wisconsin,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+wisconsin,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+alabama,eada_total_revenue,244551544,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100751,2026-10-15,Official filing
+alabama,eada_total_expenses,229908712,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100751,2026-10-15,Official filing
+alabama,eada_football_revenue,146325227,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100751,2026-10-15,Official filing
+alabama,eada_football_expenses,81502191,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100751,2026-10-15,Official filing
+alabama,eada_mbb_revenue,24406961,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100751,2026-10-15,Official filing
+alabama,eada_mbb_expenses,15230030,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100751,2026-10-15,Official filing
+alabama,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+alabama,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+alabama,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arkansas,eada_total_revenue,195879594,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/106397,2026-10-15,Official filing
+arkansas,eada_total_expenses,188988863,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/106397,2026-10-15,Official filing
+arkansas,eada_football_revenue,90791403,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/106397,2026-10-15,Official filing
+arkansas,eada_football_expenses,57370871,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/106397,2026-10-15,Official filing
+arkansas,eada_mbb_revenue,25392395,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/106397,2026-10-15,Official filing
+arkansas,eada_mbb_expenses,21254027,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/106397,2026-10-15,Official filing
+arkansas,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arkansas,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+arkansas,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+auburn,eada_total_revenue,205275913,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100858,2026-10-15,Official filing
+auburn,eada_total_expenses,195930163,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100858,2026-10-15,Official filing
+auburn,eada_football_revenue,121408732,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100858,2026-10-15,Official filing
+auburn,eada_football_expenses,58724402,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100858,2026-10-15,Official filing
+auburn,eada_mbb_revenue,26568984,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100858,2026-10-15,Official filing
+auburn,eada_mbb_expenses,20535097,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/100858,2026-10-15,Official filing
+auburn,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+auburn,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+auburn,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+florida,eada_total_revenue,199237539,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134130,2026-10-15,Official filing
+florida,eada_total_expenses,199237539,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134130,2026-10-15,Official filing
+florida,eada_football_revenue,113351580,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134130,2026-10-15,Official filing
+florida,eada_football_expenses,51766013,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134130,2026-10-15,Official filing
+florida,eada_mbb_revenue,17258007,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134130,2026-10-15,Official filing
+florida,eada_mbb_expenses,13427727,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/134130,2026-10-15,Official filing
+florida,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+florida,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+florida,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+georgia,eada_total_revenue,233526965,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139959,2026-10-15,Official filing
+georgia,eada_total_expenses,226736834,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139959,2026-10-15,Official filing
+georgia,eada_football_revenue,149285887,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139959,2026-10-15,Official filing
+georgia,eada_football_expenses,71107704,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139959,2026-10-15,Official filing
+georgia,eada_mbb_revenue,16079070,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139959,2026-10-15,Official filing
+georgia,eada_mbb_expenses,10400030,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/139959,2026-10-15,Official filing
+georgia,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+georgia,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+georgia,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kentucky,eada_total_revenue,186609679,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157085,2026-10-15,Official filing
+kentucky,eada_total_expenses,186609679,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157085,2026-10-15,Official filing
+kentucky,eada_football_revenue,43281917,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157085,2026-10-15,Official filing
+kentucky,eada_football_expenses,43281917,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157085,2026-10-15,Official filing
+kentucky,eada_mbb_revenue,21370744,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157085,2026-10-15,Official filing
+kentucky,eada_mbb_expenses,21370744,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/157085,2026-10-15,Official filing
+kentucky,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kentucky,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+kentucky,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+lsu,eada_total_revenue,223457268,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/159391,2026-10-15,Official filing
+lsu,eada_total_expenses,219649408,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/159391,2026-10-15,Official filing
+lsu,eada_football_revenue,117563889,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/159391,2026-10-15,Official filing
+lsu,eada_football_expenses,50738587,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/159391,2026-10-15,Official filing
+lsu,eada_mbb_revenue,13624943,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/159391,2026-10-15,Official filing
+lsu,eada_mbb_expenses,11104405,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/159391,2026-10-15,Official filing
+lsu,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+lsu,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+lsu,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+mississippi-state,eada_total_revenue,157301826,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176080,2026-10-15,Official filing
+mississippi-state,eada_total_expenses,157301826,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176080,2026-10-15,Official filing
+mississippi-state,eada_football_revenue,37575575,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176080,2026-10-15,Official filing
+mississippi-state,eada_football_expenses,37575575,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176080,2026-10-15,Official filing
+mississippi-state,eada_mbb_revenue,12220601,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176080,2026-10-15,Official filing
+mississippi-state,eada_mbb_expenses,12220601,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176080,2026-10-15,Official filing
+mississippi-state,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+mississippi-state,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+mississippi-state,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+missouri,eada_total_revenue,181114849,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/178396,2026-10-15,Official filing
+missouri,eada_total_expenses,181114849,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/178396,2026-10-15,Official filing
+missouri,eada_football_revenue,53301146,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/178396,2026-10-15,Official filing
+missouri,eada_football_expenses,49316139,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/178396,2026-10-15,Official filing
+missouri,eada_mbb_revenue,18857854,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/178396,2026-10-15,Official filing
+missouri,eada_mbb_expenses,14354000,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/178396,2026-10-15,Official filing
+missouri,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+missouri,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+missouri,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oklahoma,eada_total_revenue,234426470,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207500,2026-10-15,Official filing
+oklahoma,eada_total_expenses,234426470,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207500,2026-10-15,Official filing
+oklahoma,eada_football_revenue,126247146,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207500,2026-10-15,Official filing
+oklahoma,eada_football_expenses,71184826,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207500,2026-10-15,Official filing
+oklahoma,eada_mbb_revenue,9769244,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207500,2026-10-15,Official filing
+oklahoma,eada_mbb_expenses,14250771,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/207500,2026-10-15,Official filing
+oklahoma,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oklahoma,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+oklahoma,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ole-miss,eada_total_revenue,171119339,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176017,2026-10-15,Official filing
+ole-miss,eada_total_expenses,171119339,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176017,2026-10-15,Official filing
+ole-miss,eada_football_revenue,90702621,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176017,2026-10-15,Official filing
+ole-miss,eada_football_expenses,61846036,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176017,2026-10-15,Official filing
+ole-miss,eada_mbb_revenue,18228379,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176017,2026-10-15,Official filing
+ole-miss,eada_mbb_expenses,18228379,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/176017,2026-10-15,Official filing
+ole-miss,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ole-miss,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+ole-miss,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+south-carolina,eada_total_revenue,204566524,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/218663,2026-10-15,Official filing
+south-carolina,eada_total_expenses,203259302,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/218663,2026-10-15,Official filing
+south-carolina,eada_football_revenue,76513171,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/218663,2026-10-15,Official filing
+south-carolina,eada_football_expenses,55859501,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/218663,2026-10-15,Official filing
+south-carolina,eada_mbb_revenue,15446053,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/218663,2026-10-15,Official filing
+south-carolina,eada_mbb_expenses,11074153,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/218663,2026-10-15,Official filing
+south-carolina,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+south-carolina,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+south-carolina,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+tennessee,eada_total_revenue,285364027,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221759,2026-10-15,Official filing
+tennessee,eada_total_expenses,285364027,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221759,2026-10-15,Official filing
+tennessee,eada_football_revenue,162539638,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221759,2026-10-15,Official filing
+tennessee,eada_football_expenses,61240437,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221759,2026-10-15,Official filing
+tennessee,eada_mbb_revenue,35316920,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221759,2026-10-15,Official filing
+tennessee,eada_mbb_expenses,20241922,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221759,2026-10-15,Official filing
+tennessee,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+tennessee,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+tennessee,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas,eada_total_revenue,343106827,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228778,2026-10-15,Official filing
+texas,eada_total_expenses,277413781,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228778,2026-10-15,Official filing
+texas,eada_football_revenue,171892714,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228778,2026-10-15,Official filing
+texas,eada_football_expenses,70405628,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228778,2026-10-15,Official filing
+texas,eada_mbb_revenue,17377540,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228778,2026-10-15,Official filing
+texas,eada_mbb_expenses,22209288,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228778,2026-10-15,Official filing
+texas,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas-am,eada_total_revenue,235498020,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228723,2026-10-15,Official filing
+texas-am,eada_total_expenses,228301283,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228723,2026-10-15,Official filing
+texas-am,eada_football_revenue,108474281,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228723,2026-10-15,Official filing
+texas-am,eada_football_expenses,60230146,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228723,2026-10-15,Official filing
+texas-am,eada_mbb_revenue,15734652,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228723,2026-10-15,Official filing
+texas-am,eada_mbb_expenses,14312941,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/228723,2026-10-15,Official filing
+texas-am,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas-am,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+texas-am,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+vanderbilt,eada_total_revenue,146388389,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221999,2026-10-15,Official filing
+vanderbilt,eada_total_expenses,146388389,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221999,2026-10-15,Official filing
+vanderbilt,eada_football_revenue,44124525,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221999,2026-10-15,Official filing
+vanderbilt,eada_football_expenses,44124525,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221999,2026-10-15,Official filing
+vanderbilt,eada_mbb_revenue,13322320,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221999,2026-10-15,Official filing
+vanderbilt,eada_mbb_expenses,13322320,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/221999,2026-10-15,Official filing
+vanderbilt,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+vanderbilt,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+vanderbilt,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+notre-dame,eada_total_revenue,289616198,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/152080,2026-10-15,Official filing
+notre-dame,eada_total_expenses,244698449,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/152080,2026-10-15,Official filing
+notre-dame,eada_football_revenue,195723436,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/152080,2026-10-15,Official filing
+notre-dame,eada_football_expenses,93255797,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/152080,2026-10-15,Official filing
+notre-dame,eada_mbb_revenue,13245301,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/152080,2026-10-15,Official filing
+notre-dame,eada_mbb_expenses,13245301,FY2025,"U.S. Dept. of Education EADA, 2025 collection (2024-25)",https://ope.ed.gov/athletics/#/institution/details/152080,2026-10-15,Official filing
+notre-dame,kn_total_revenue,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+notre-dame,kn_total_expenses,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,
+notre-dame,kn_contributions,,FY2025,Knight-Newhouse College Athletics Database (not ingested: license),https://www.knightnewhousedata.org/fbs,2026-10-15,

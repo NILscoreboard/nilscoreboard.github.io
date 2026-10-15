@@ -1,0 +1,69 @@
+slug,name,conference,unitid,state,records_office_url
+boston-college,Boston College,ACC,164924,MA,
+cal,California,ACC,110635,CA,https://ucb.nextrequest.com/
+clemson,Clemson,ACC,217882,SC,https://www.clemson.edu/foia/
+duke,Duke,ACC,198419,NC,
+florida-state,Florida State,ACC,134097,FL,https://generalcounsel.fsu.edu/public-records
+georgia-tech,Georgia Tech,ACC,139755,GA,https://openrecords.gatech.edu/
+louisville,Louisville,ACC,157289,KY,https://louisville.edu/openrecords
+miami,Miami (FL),ACC,135726,FL,
+nc-state,NC State,ACC,199193,NC,https://publicrecords.ncsu.edu/
+north-carolina,North Carolina,ACC,199120,NC,https://publicrecords.unc.edu/
+pittsburgh,Pittsburgh,ACC,215293,PA,https://www.rtk.pitt.edu/
+smu,SMU,ACC,228246,TX,
+stanford,Stanford,ACC,243744,CA,
+syracuse,Syracuse,ACC,196413,NY,
+virginia,Virginia,ACC,234076,VA,https://foia.virginia.edu/
+virginia-tech,Virginia Tech,ACC,233921,VA,https://foia.vt.edu/
+wake-forest,Wake Forest,ACC,199847,NC,
+arizona,Arizona,Big 12,104179,AZ,https://publicrecords.arizona.edu/
+arizona-state,Arizona State,Big 12,104151,AZ,https://publicrecords.asu.edu/
+baylor,Baylor,Big 12,223232,TX,
+byu,BYU,Big 12,230038,UT,
+cincinnati,Cincinnati,Big 12,201885,OH,https://www.uc.edu/about/publicrecords.html
+colorado,Colorado,Big 12,126614,CO,https://www.colorado.edu/cora
+houston,Houston,Big 12,225511,TX,https://uh.edu/legal-affairs/general-counsel/texas-public-information-act/
+iowa-state,Iowa State,Big 12,153603,IA,https://www.policy.iastate.edu/policy/openrecords
+kansas,Kansas,Big 12,155317,KS,https://openrecords.ku.edu/
+kansas-state,Kansas State,Big 12,155399,KS,https://www.k-state.edu/openrecords/
+oklahoma-state,Oklahoma State,Big 12,207388,OK,https://openrecords.okstate.edu/
+tcu,TCU,Big 12,228875,TX,
+texas-tech,Texas Tech,Big 12,229115,TX,https://www.depts.ttu.edu/opengovernment/
+ucf,UCF,Big 12,132903,FL,https://publicrecords.ucf.edu/
+utah,Utah,Big 12,230764,UT,https://grama.utah.edu/
+west-virginia,West Virginia,Big 12,238032,WV,https://foia.wvu.edu/
+illinois,Illinois,Big Ten,145637,IL,https://foia.uillinois.edu/
+indiana,Indiana,Big Ten,151351,IN,https://publicrecords.iu.edu/
+iowa,Iowa,Big Ten,153658,IA,https://transparency.uiowa.edu/
+maryland,Maryland,Big Ten,163286,MD,https://generalcounsel.umd.edu/public-information-act
+michigan,Michigan,Big Ten,170976,MI,https://foia.vpcomm.umich.edu/
+michigan-state,Michigan State,Big Ten,171100,MI,https://foia.msu.edu/
+minnesota,Minnesota,Big Ten,174066,MN,https://datarequest.umn.edu/
+nebraska,Nebraska,Big Ten,181464,NE,https://nebraska.edu/offices-policies/public-records
+northwestern,Northwestern,Big Ten,147767,IL,
+ohio-state,Ohio State,Big Ten,204796,OH,https://compliance.osu.edu/public-records
+oregon,Oregon,Big Ten,209551,OR,https://publicrecords.uoregon.edu/
+penn-state,Penn State,Big Ten,214777,PA,https://openrecords.psu.edu/
+purdue,Purdue,Big Ten,243780,IN,https://www.purdue.edu/legalcounsel/publicrecords/
+rutgers,Rutgers,Big Ten,186380,NJ,https://opra.rutgers.edu/
+ucla,UCLA,Big Ten,110662,CA,https://www.adminpolicies.ucla.edu/records/
+usc,USC,Big Ten,123961,CA,
+washington,Washington,Big Ten,236948,WA,https://www.washington.edu/publicrecords/
+wisconsin,Wisconsin,Big Ten,240444,WI,https://www.wisc.edu/public-records/
+alabama,Alabama,SEC,100751,AL,https://openrecords.ua.edu/
+arkansas,Arkansas,SEC,106397,AR,https://foia.uark.edu/
+auburn,Auburn,SEC,100858,AL,https://www.auburn.edu/administration/generalcounsel/
+florida,Florida,SEC,134130,FL,https://publicrecords.ufl.edu/
+georgia,Georgia,SEC,139959,GA,https://openrecords.uga.edu/
+kentucky,Kentucky,SEC,157085,KY,https://legal.uky.edu/open-records
+lsu,LSU,SEC,159391,LA,https://www.lsu.edu/publicrecords/
+mississippi-state,Mississippi State,SEC,176080,MS,https://www.msstate.edu/public-records
+missouri,Missouri,SEC,178396,MO,https://www.umsystem.edu/ums/gc/custodian
+oklahoma,Oklahoma,SEC,207500,OK,https://openrecords.ou.edu/
+ole-miss,Ole Miss,SEC,176017,MS,https://publicrecords.olemiss.edu/
+south-carolina,South Carolina,SEC,218663,SC,https://sc.edu/about/offices_and_divisions/foia/
+tennessee,Tennessee,SEC,221759,TN,https://publicrecords.tennessee.edu/
+texas,Texas,SEC,228778,TX,https://utexas.edu/open-records
+texas-am,Texas A&M,SEC,228723,TX,https://openrecords.tamu.edu/
+vanderbilt,Vanderbilt,SEC,221999,TN,
+notre-dame,Notre Dame,Independent (ACC in other sports),152080,IN,
