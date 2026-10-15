@@ -3,7 +3,7 @@ import json, os, shutil, html
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 D = json.load(open(os.path.join(ROOT, "data", "schools.json")))
 OUT = os.path.join(ROOT, "dist")
-SUB = "https://nilscoreboard.substack.com"; BSKY = "https://bsky.app/profile/nilscoreboard.bsky.social"
+SUB = "https://nilscoreboard.substack.com"; BSKY = "https://bsky.app/profile/nilscoreboard.bsky.social"; XURL = "https://x.com/NILscoreboardHQ"
 CONFS = ["ACC", "Big Ten", "Big 12", "SEC"]
 e = html.escape
 
@@ -17,9 +17,9 @@ def page(title, body, depth=0):
 <title>{e(title)} | NIL Scoreboard</title><link rel="stylesheet" href="{p}style.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script></head><body>
 <header><a class="brand" href="{p}index.html">NIL Scoreboard</a><nav><a href="{p}index.html">Leaderboards</a><a href="{p}methodology/index.html">Methodology &amp; sources</a>
-<a href="{SUB}">Newsletter</a><a href="{BSKY}">Bluesky</a></nav></header><main>{body}</main>
+<a href="{SUB}">Newsletter</a><a href="{BSKY}">Bluesky</a><a href="{XURL}">X</a></nav></header><main>{body}</main>
 <footer>Data: U.S. Dept. of Education EADA (public domain). Every number links to its source. <a href="{p}methodology/index.html">How we count</a> ·
-<a href="{SUB}">Subscribe on Substack</a> · <a href="{BSKY}">@nilscoreboard.bsky.social</a> · <a href="{p}data/schools.csv">Download CSV</a></footer></body></html>"""
+<a href="{SUB}">Subscribe on Substack</a> · <a href="{BSKY}">@nilscoreboard.bsky.social</a> · <a href="{XURL}">@NILscoreboardHQ on X</a> · <a href="{p}data/schools.csv">Download CSV</a></footer></body></html>"""
 
 def V(s, k): return s["metrics"][k]["value"]
 
