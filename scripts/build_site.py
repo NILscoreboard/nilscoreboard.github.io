@@ -13,10 +13,18 @@ def money(v):
 
 def page(title, body, depth=0):
     p = "../" * depth
+    og = "https://nilscoreboard.github.io/assets/logo.png"
     return f"""<!doctype html><html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
-<title>{e(title)} | NIL Scoreboard</title><link rel="stylesheet" href="{p}style.css">
+<title>{e(title)} | NIL Scoreboard</title>
+<link rel="icon" type="image/png" href="{p}assets/logo.png">
+<link rel="apple-touch-icon" href="{p}assets/logo.png">
+<meta property="og:title" content="{e(title)} | NIL Scoreboard">
+<meta property="og:image" content="{og}">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:image" content="{og}">
+<link rel="stylesheet" href="{p}style.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script></head><body>
-<header><a class="brand" href="{p}index.html">NIL Scoreboard</a><nav><a href="{p}index.html">Leaderboards</a><a href="{p}methodology/index.html">Methodology &amp; sources</a>
+<header><a class="brand" href="{p}index.html"><img src="{p}assets/logo.png" alt="" width="40" height="40">NIL Scoreboard</a><nav><a href="{p}index.html">Leaderboards</a><a href="{p}methodology/index.html">Methodology &amp; sources</a>
 <a href="{SUB}">Newsletter</a><a href="{BSKY}">Bluesky</a><a href="{XURL}">X</a></nav></header><main>{body}</main>
 <footer>Data: U.S. Dept. of Education EADA (public domain). Every number links to its source. <a href="{p}methodology/index.html">How we count</a> ·
 <a href="{SUB}">Subscribe on Substack</a> · <a href="{BSKY}">@nilscoreboard.bsky.social</a> · <a href="{XURL}">@NILscoreboardHQ on X</a> · <a href="{p}data/schools.csv">Download CSV</a></footer></body></html>"""
@@ -79,7 +87,7 @@ def methodology():
     return page("Methodology", body, 1)
 
 CSS = """body{font-family:system-ui,sans-serif;margin:0;color:#1b1f24;background:#fafbfc}header{display:flex;gap:2rem;align-items:center;padding:1rem 2rem;background:#0d1117;color:#fff;flex-wrap:wrap}
-header a{color:#fff;text-decoration:none;margin-right:1rem}.brand{font-weight:800;font-size:1.3rem}main{max-width:1100px;margin:auto;padding:1rem 2rem}
+header a{color:#fff;text-decoration:none;margin-right:1rem}.brand{font-weight:800;font-size:1.3rem;display:inline-flex;align-items:center;gap:.55rem}.brand img{width:40px;height:40px;border-radius:8px;display:block}main{max-width:1100px;margin:auto;padding:1rem 2rem}
 table{border-collapse:collapse;width:100%;margin:1rem 0;background:#fff}th,td{padding:.4rem .6rem;border-bottom:1px solid #e1e4e8;text-align:left;font-size:.92rem}th{background:#f3f4f6}
 .lede{font-size:1.1rem;color:#444}.src,.note{font-size:.85rem;color:#57606a}.na{color:#999}.badge{background:#ddf4ff;color:#0969da;padding:.1rem .4rem;border-radius:4px;font-size:.8rem}.badge.none{background:#eee;color:#666}
 section{margin:2rem 0}footer{padding:2rem;font-size:.85rem;color:#57606a;text-align:center}"""
@@ -89,6 +97,8 @@ def main():
     open(os.path.join(OUT, "style.css"), "w").write(CSS)
     open(os.path.join(OUT, "index.html"), "w").write(home())
     open(os.path.join(OUT, ".nojekyll"), "w").write("")
+    assets_src = os.path.join(ROOT, "assets"); assets_dst = os.path.join(OUT, "assets")
+    if os.path.isdir(assets_src): shutil.copytree(assets_src, assets_dst)
     os.makedirs(os.path.join(OUT, "methodology")); open(os.path.join(OUT, "methodology", "index.html"), "w").write(methodology())
     for s in D["schools"]:
         p = os.path.join(OUT, "schools", s["slug"]); os.makedirs(p); open(os.path.join(p, "index.html"), "w").write(school(s))
