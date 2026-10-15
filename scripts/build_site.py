@@ -24,7 +24,7 @@ def page(title, body, depth=0):
 <meta name="twitter:image" content="{og}">
 <link rel="stylesheet" href="{p}style.css">
 <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script></head><body>
-<header><a class="brand" href="{p}index.html"><img src="{p}assets/logo.png" alt="" width="40" height="40">NIL Scoreboard</a><nav><a href="{p}index.html">Leaderboards</a><a href="{p}methodology/index.html">Methodology &amp; sources</a>
+<header><a class="brand" href="{p}index.html"><img src="{p}assets/logo.png" alt="" width="40" height="40">NIL Scoreboard</a><nav><a href="{p}index.html">Leaderboards</a><a href="{p}methodology/index.html">Methodology &amp; Sources</a>
 <a href="{SUB}">Newsletter</a><a href="{BSKY}">Bluesky</a><a href="{XURL}">X</a></nav></header><main>{body}</main>
 <footer>Data: U.S. Dept. of Education EADA (public domain). Every number links to its source. <a href="{p}methodology/index.html">How we count</a> ·
 <a href="{SUB}">Subscribe on Substack</a> · <a href="{BSKY}">@nilscoreboard.bsky.social</a> · <a href="{XURL}">@NILscoreboardHQ on X</a> · <a href="{p}data/schools.csv">Download CSV</a></footer></body></html>"""
@@ -71,7 +71,7 @@ def school(s):
     return page(s["name"], body, 2)
 
 def methodology():
-    body = f"""<h1>Methodology &amp; sources</h1>
+    body = f"""<h1>Methodology &amp; Sources</h1>
 <h2>Confidence labels</h2><ul><li><b>Audited</b>: from an NCAA financial report (MFRS) with an independent agreed-upon-procedures review, obtained from the school or a public record.</li>
 <li><b>Official filing</b>: a school's own filing with a government agency, e.g. the federal EADA survey. Not audited by us.</li>
 <li><b>Reported</b>: published by credible news outlets or school statements, with a link.</li><li><b>Estimate</b>: our calculation, always labeled, with the method shown.</li>
