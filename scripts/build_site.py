@@ -27,7 +27,9 @@ def page(title, body, depth=0):
 <header><a class="brand" href="{p}index.html"><img src="{p}assets/logo.png" alt="" width="40" height="40">NIL Scoreboard</a><nav><a href="{p}index.html">Leaderboards</a><a href="{p}methodology/index.html">Methodology &amp; Sources</a>
 <a href="{SUB}">Newsletter</a><a href="{BSKY}">Bluesky</a><a href="{XURL}">X</a></nav></header><main>{body}</main>
 <footer>Data: U.S. Dept. of Education EADA (public domain). Every number links to its source. <a href="{p}methodology/index.html">How we count</a> ·
-<a href="{SUB}">Subscribe on Substack</a> · <a href="{BSKY}">@nilscoreboard.bsky.social</a> · <a href="{XURL}">@NILscoreboardHQ on X</a> · <a href="{p}data/schools.csv">Download CSV</a></footer></body></html>"""
+<a href="{SUB}">Subscribe on Substack</a> · <a href="{BSKY}">@nilscoreboard.bsky.social</a> · <a href="{XURL}">@NILscoreboardHQ on X</a> · <a href="{p}data/schools.csv">Download CSV</a></footer>
+<script data-goatcounter="https://nilscoreboard.goatcounter.com/count" async src="//gc.zgo.at/count.js"></script>
+</body></html>"""
 
 def V(s, k): return s["metrics"][k]["value"]
 
